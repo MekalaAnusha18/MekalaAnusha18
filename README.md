@@ -16,3 +16,8 @@ ________________________________________________________________________________
 * 🐍 Python/pandas: Data wrangling & analysis
 * 📊 Power BI: Data modeling, star schema, dashboards
 * 📈 Excel/VBA: Automation & reporting
+
+_______________________________________________________________________________________________________________
+
+ Connect with me:
+linkedin:
