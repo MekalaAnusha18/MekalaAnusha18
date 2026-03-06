@@ -9,8 +9,9 @@
 
 
 🛠️ My Tech Stack
-Here are a few technologies I've been working with recently:
 
+*  Here are a few technologies I've been working with recently:
+  
 * 🗄️ SQL: Joins, CTEs, Window Functions, Optimization
 * 🐍 Python/pandas: Data wrangling & analysis
 * 📊 Power BI: Data modeling, star schema, dashboards
