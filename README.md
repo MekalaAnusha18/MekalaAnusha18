@@ -1,8 +1,5 @@
 ## Hi there,I'm Mekala Anusha 👋
 
-<!--
-**MekalaAnusha18/MekalaAnusha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 A  Data Analyst from Ballari
 🔭 I’m currently working on  projects in SQL, Python, Excel, and Power BI.
