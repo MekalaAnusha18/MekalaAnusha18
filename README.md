@@ -7,11 +7,10 @@
 * 💬 Ask me about SQL queries, data wrangling with pandas, Excel automation, and Power BI dashboards.
 * 📫 How to reach me: anushamekala699@gmail.com
 
-
-🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 Here are a few technologies I've been working with recently:
 
-* 🗄️ SQL: Joins, CTEs, Window Functions, Optimization
-* 🐍 Python/pandas: Data wrangling & analysis
-* 📊 Power BI: Data modeling, star schema, dashboards
-* 📈 Excel/VBA: Automation & reporting
+🗄️ SQL: Joins, CTEs, Window Functions, Optimization
+🐍 Python/pandas: Data wrangling & analysis
+📊 Power BI: Data modeling, star schema, dashboards
+📈 Excel/VBA: Automation & reporting
