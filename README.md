@@ -1,6 +1,5 @@
 ## Hi there,I'm Mekala Anusha 👋
 
-Here are some ideas to get you started:
 A  Data Analyst from Ballari
 🔭 I’m currently working on  projects in SQL, Python, Excel, and Power BI.
 🌱 I’m currently learning Python, SQL, MS Excel, and Power BI to transition into a Data Analytics role.
